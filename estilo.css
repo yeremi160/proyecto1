@@ -4,7 +4,7 @@
     padding:20px;
     background-color: rgb(255, 255, 255);
     width:300PX;
-    height:500px;
+    height:400px;
     
 }
 .CALCULADORA td button{
@@ -20,7 +20,7 @@
     font-size:30px;
     margin-bottom:40px;
     width:300PX;
-    height:100px;
-    line-height:100px;
+    height:50px;
+    line-height:50px;
     background-color: rgb(255, 255, 255);
 }
